@@ -4,6 +4,7 @@ Simple use case of Jupyter Widgets on example of Turing machine simulator.
 The task is: "An array of letters 'A' and 'B' is given.
 It is necessary to compress the array by deleting all the letters 'B', but leaving the letters 'A'."
 Jupyter Widgets are used to display the tape, current transition, status and command buttons.
+
 ![Form image](imgs/form.png)
 
 ### References
